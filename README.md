@@ -89,17 +89,6 @@ habit-tracker/
 └── .env
 ```
 
-## Features to be Added
-
-- User authentication and personal habit tracking
-- Habit streaks and statistics
-- Custom habit icons
-- Reminder notifications
-- Weekly/monthly view options
-- Habit categories
-- Progress visualization
-- Data export functionality
-
 ## Usage
 
 1. Click the "+ Add new" button to create a new habit
@@ -107,18 +96,6 @@ habit-tracker/
 3. View your habits for different days using the date navigation
 4. Click on a habit to mark it as complete
 5. Completed habits are marked with a checkmark icon
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Author
 
