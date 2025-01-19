@@ -38,7 +38,7 @@ Before running this project, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/habit-tracker.git
+git clone https://github.com/egmndrk/Habit-Tracker-pythonweb.git
 cd habit-tracker
 ```
 
