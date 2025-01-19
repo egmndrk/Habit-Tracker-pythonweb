@@ -39,7 +39,7 @@ Before running this project, make sure you have:
 1. Clone the repository:
 ```bash
 git clone https://github.com/egmndrk/Habit-Tracker-pythonweb.git
-cd habit-tracker
+cd Habit-Tracker-pythonweb
 ```
 
 2. Create and activate a virtual environment:
